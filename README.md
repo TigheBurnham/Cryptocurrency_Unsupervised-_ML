@@ -23,11 +23,11 @@ This new assignment consists of four technical analysis parts.
 
 <img width="527" alt="elbow curve" src="https://user-images.githubusercontent.com/112028534/214971190-05e8c26c-bfbc-45a0-a8fc-28d90cebd274.png">
 
-- Next we used the K-means algorithm to make predictions of the K Clusters and then created a new clustered data frame as shown in the image below.
+- Next we used the K-means algorithm to make predictions of the K clusters and then created a new clustered data frame as shown in the image below.
 
 <img width="617" alt="Clustered_df" src="https://user-images.githubusercontent.com/112028534/214974733-e6b40c7b-efde-4960-9dbc-e196b8d98a66.png">
 
-- For the 4th deliverable we were tasked with creating visualizations of the Cryptocurrencies.
+- For the 4th deliverable we were tasked with creating visualizations of the cryptocurrencies.
 
 ### 3D Scatter Plot
 
