@@ -4,7 +4,7 @@
 
 In this project an investment bank is interested in offering a new cryptocurrency investment portfolio. Based on the volume of crypto currencies that exist we have been tasked with creating a report that groups cryptocurrencies into classification systems. Unsupervised machine learning that utilizes a clustering algorithm was determined to be the best machine learning method to create this type of report because there is no known output. 
 
-This new assignment consists of four technical analysis parts.
+This assignment consists of four technical analysis parts.
 
 - Part 1: Preprocessing the Data for PCA
 - Part 2: Reducing Data Dimensions Using PCA
