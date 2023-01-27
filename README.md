@@ -27,7 +27,7 @@ This new assignment consists of four technical analysis parts.
 
 <img width="617" alt="Clustered_df" src="https://user-images.githubusercontent.com/112028534/214974733-e6b40c7b-efde-4960-9dbc-e196b8d98a66.png">
 
-- For the 4th deliverable we were tasked with creating Visualizations of the Cryptocurrencies.
+- For the 4th deliverable we were tasked with creating visualizations of the Cryptocurrencies.
 
 ### 3D Scatter Plot
 
